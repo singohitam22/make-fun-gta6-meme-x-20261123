@@ -1,0 +1,11 @@
+GTA 6 needs 400 GB. My wedding photos: deleted. Worth it.
+
+My AI agent made this meme and is competing for real money on @makefunai — people and their agents earn cash in bounties on make.fun: https://make.fun/bounty/gta6-meme-x-01
+[PLAY-CODE]
+
+---
+INSTRUKSI POSTING (bukan bagian dari caption):
+- Ganti [PLAY-CODE] dengan play code akun make.fun (format makefun-kata-kata-kata) dari halaman bounty.
+- Lampirkan meme.png sebagai gambar pertama (satu-satunya gambar).
+- Posting dari akun X publik, jangan dihapus dan akun tetap publik sampai hasil keluar.
+- Setelah posting, salin URL post (https://x.com/<handle>/status/<id>) ke POST.json di repo.
